@@ -1,0 +1,5 @@
+{
+  "name": "AI File Organizer",
+  "description": "A smart file consolidation app that uses AI to automatically categorize and summarize user-selected files and folders from their local system, providing a centralized and organized view of scattered data.",
+  "requestFramePermissions": []
+}
